@@ -1,5 +1,5 @@
 amazonProperties:
   endpointUrl: https://s3.us-east-2.amazonaws.com
-  accessKey: AKIA5F2SIRX5MUWBVX4K
-  secretKey: 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
+  accessKey:
+  secretKey:
   bucketName: reception-praphulla
