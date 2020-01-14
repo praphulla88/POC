@@ -34,8 +34,8 @@ public class SpringBootS3bucketApplication {
 		String bucketName = "workzone-praphulla";
 
 		AWSCredentials credentials =  new BasicAWSCredentials(
-				"AKIA5F2SIRX5MUWBVX4K",
-				"5eUJwA3iEQUAP8uyhM/JD3sKhzhVh4UUXtNygzlK"
+				"",
+				""
 		);
 		AmazonS3 amazonS3  =  AmazonS3ClientBuilder
 				.standard()
